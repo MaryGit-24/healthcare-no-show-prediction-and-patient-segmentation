@@ -29,10 +29,15 @@ In this dataset:
 healthcare-analytics-project/
 │
 ├── data/ → Raw and processed datasets
+
 ├── sql/ → Data extraction and transformation queries
+
 ├── powerbi/ → Power BI dashboard (.pbix file)
+
 ├── notebooks/ → Machine Learning notebooks (Classification & Clustering)
+
 ├── assets/ → Visuals (dashboard screenshots, model outputs)
+
 └── README.md
 
 

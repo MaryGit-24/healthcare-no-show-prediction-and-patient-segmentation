@@ -39,7 +39,7 @@ healthcare-analytics-project/
 
 ├── assets/ → Visuals (dashboard screenshots, model outputs)
 
-├── powerpoint_presentation (structured executive-style presentation)
+├── powerpoint_presentation ([structured executive-style presentation](https://drive.google.com/file/d/1oTVWKHrvHAJoAtvlOmIowgl54abUct9j/view?usp=sharing))
 
 └── README.md
 

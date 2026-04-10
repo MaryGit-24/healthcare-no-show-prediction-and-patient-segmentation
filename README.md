@@ -27,6 +27,7 @@ In this dataset:
 ## 📁 Project Structure
 
 healthcare-analytics-project/
+
 │
 ├── data/ → Raw and processed datasets
 
@@ -37,6 +38,8 @@ healthcare-analytics-project/
 ├── notebooks/ → Machine Learning notebooks (Classification & Clustering)
 
 ├── assets/ → Visuals (dashboard screenshots, model outputs)
+
+├── powerpoint_presentation (structured executive-style presentation)
 
 └── README.md
 
@@ -160,9 +163,9 @@ By combining dashboards with machine learning:
 
 ## 🗂️ Presentation & Resources
 
-- 📊 **Power BI Dashboard:** *(https://docs.google.com/presentation/d/1F0UyNVeUZtaAz6usr2oOz0A0VoQMHGj4/edit?usp=sharing&ouid=102368251228123665722&rtpof=true&sd=true)*  
-- 📑 **Google Slides Presentation:** *(https://docs.google.com/presentation/d/1uWeGAMfzDy7rEdX3al-sgoM5JuqEf-Ur-vTUmnik2_s/edit?usp=sharing)*  
-- 📓 **Machine Learning Notebooks:** *(https://colab.research.google.com/drive/1REFAVpikRebEYQ_6zFY4dY9KdkkeLbSX?usp=sharing),(https://colab.research.google.com/drive/1kz7skrIqGQcul9e62-_c8aTg96a7Z_pT?usp=sharing)*  
+- 📊 **Power BI Dashboard:** *([](https://docs.google.com/presentation/d/1F0UyNVeUZtaAz6usr2oOz0A0VoQMHGj4/edit?usp=sharing&ouid=102368251228123665722&rtpof=true&sd=true)*  
+- 📑 **Structured Executive-Style Presentation Presentation:** *([](https://drive.google.com/file/d/1oTVWKHrvHAJoAtvlOmIowgl54abUct9j/view?usp=sharing))*  
+- 📓 **Machine Learning Notebooks:** *([](https://colab.research.google.com/drive/1REFAVpikRebEYQ_6zFY4dY9KdkkeLbSX?usp=sharing),([](https://colab.research.google.com/drive/1kz7skrIqGQcul9e62-_c8aTg96a7Z_pT?usp=sharing)*  
 
 ---
 

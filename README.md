@@ -1,4 +1,4 @@
-## Healthcare No-Show Prediction & Patient Segmentation System
+# Healthcare No-Show Prediction & Patient Segmentation System
 
 ## Project Overview
 
